@@ -1,0 +1,187 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Ballet&display=swap" rel="stylesheet") */
+/* @import url("https://kit.fontawesome.com/a076d05399.js") */
+/* Background image */
+/* body { 
+  background:url(/img/pic1.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+} */
+  /* Same Ass */
+html body {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  background: url(/img/pic2.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+
+.heding1 {
+  color: white;
+  text-align: center;
+  background-color: rgb(70, 175, 216);
+  display: inline-block;
+  margin-left: 40%;
+
+  }
+
+
+/* সিএসএস লিংক ত্যাগ */
+.link1 a{
+   display: inline-block;
+   color: white;
+   text-decoration: none;
+   margin-left: 550px;
+   font-size: 30px;
+   background-color: gray;
+   text-shadow: 4px 4px black;
+ 
+ }
+
+
+.border {
+  color: lightcoral;
+  border: 2px dotted /*solid*/ red; 
+  display: inline-block;
+  margin-left: 50%;
+
+}
+
+.margin{
+  color: rgb(255, 255, 255);
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  border-style: double;
+  border-color: yellow;
+}
+
+.padding{
+  color: white;
+  border-style: dotted;
+  padding: 40px;
+  text-align: center;
+
+}
+
+.box{
+  max-width: 1000px;
+  color: rgb(215, 230, 0);
+  border: 15px solid green;
+  padding: 15px;
+  margin: auto;
+  background-color: grey;
+  outline: 5px solid rgb(255, 0, 0);  
+
+}
+
+.box p{
+  text-indent: 100px;
+  text-align: justify;
+  text-decoration: underline;
+  line-height: 1cm;
+  letter-spacing: 2px;
+  font-family: 'Ballet', cursive;
+}
+    /* Botton  */
+#innderlink{
+display: block;
+width: 140px;
+margin: auto;
+padding: 25px;
+text-align: center;
+color: rgb(255, 0, 0);
+background-color: rgb(0, 0, 0);
+text-decoration: none;
+border-radius: 10px 10px;
+font-family: sans-serif;
+
+}
+
+#innderlink:hover{
+  background-color: rgb(21, 253, 0);
+  color: rgb(255, 255, 255);
+  
+  }
+    /* list items in css */
+  .listClass{
+    width: 30%;
+    margin: auto ;
+    margin-top: 10px;
+    padding: 15px;
+    color: white;
+    background-color: teal;
+  }
+  .listClass ol li{
+    background-color: rgb(243, 152, 243);
+    font-size: 20px;
+    font-family: sans-serif;
+
+  }
+
+  /* Table Here */
+
+  .mytable{
+    color: white;
+    border-collapse: collapse;
+    font-size: 15px;
+    min-width: 400px;
+    text-align: left;
+    margin: auto;
+    
+  
+  }
+  .mytable-table th{
+    background-color:#009879 ;
+    font-weight: bold;
+    text-align: center;
+
+    
+  }
+
+  .mytable-table th
+  .mytable-table td{
+    padding: 12px 15px;
+  }
+
+  .mytable-table tbody td{
+    border-bottom: 1px solid #dddddd;
+    background-color: lightblue;
+  }
+
+  .mytable-table,tbody tr td:hover {
+    background-color: rgb(236, 9, 9);}
+  
+
+
+
+
+  .para1{
+  color: rgba(255, 72, 72, 0.897);
+  text-align: center;
+  font-size: 50px;
+}
+
+.para2{
+  color: rgb(42, 165, 97);
+}
+
+#Pera {
+  color: white;
+  font-style: oblique;
+  background-color: brown;
+  
+  
+}
+.lorem2 {
+  background-color: burlywood;
+  text-align: center;
+}
+
+#Text1 {
+  color: white;
+
+}
